@@ -5,4 +5,4 @@ It includs how you buy in supply for your stocks, change your commoditized price
 
 All you need to do is download the zip and depolys it on your IIS.
 
-In order to start this instance, you need download sql server 2017 in addition.
+In order to start this instance, you need download sql server 2017 in addition. I also include the database schema in here, PLEASE IMPORT IT BEFORE YOU LAUNCH THIS APPLICATION!
