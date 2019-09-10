@@ -7,3 +7,5 @@ All you need to do is download the zip and depolys it on your IIS.
 
 In order to start this instance, you need download sql server 2017 in addition. I also include the database schema in here, PLEASE IMPORT IT BEFORE YOU LAUNCH THIS APPLICATION!
 PS:Create database in SSMS, and name it as ConStore
+
+In version 1.02, the async method for Cpu bound code, and await task for I/O bound sql execution has been updated into controller.
