@@ -9,3 +9,5 @@ In order to start this instance, you need download sql server 2017 in addition. 
 PS:Create database in SSMS, and name it as ConStore
 
 In version 1.02, the async method for Cpu bound code, and await task for I/O bound sql execution has been updated into controller.
+
+IN .NET core version，Cnstore_core v1.0 would be used for testing the performance benchmark against Framwork.
